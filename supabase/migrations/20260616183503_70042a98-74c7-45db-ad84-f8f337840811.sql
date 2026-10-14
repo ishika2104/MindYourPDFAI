@@ -1,0 +1,2 @@
+CREATE POLICY "No updates to ingestion events" ON public.ingestion_events FOR UPDATE TO authenticated USING (false) WITH CHECK (false);
+CREATE POLICY "No deletes of ingestion events" ON public.ingestion_events FOR DELETE TO authenticated USING (false);
