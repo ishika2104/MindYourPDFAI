@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mypdf : MindYourPDF AI
 
 Production-grade AI document intelligence: upload PDFs, chat with them, generate summaries and insights, study with AI-generated flashcards, search across your whole library, and compare multiple documents side by side.
@@ -84,3 +85,7 @@ src/
 ## Deployment
 
 Publish from the Lovable editor. Backend, storage, and auth are managed automatically. External webhooks/APIs live under `src/routes/api/public/*` if ever needed.
+=======
+# MindYourPDFAI
+MindYourPDF AI: Document Intelligence Agent
+>>>>>>> cac920765aa9f8c74fb6aa6d2983b8d54c6ff315
